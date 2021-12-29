@@ -1,6 +1,6 @@
 # Statistical Analysis System - Crime rate for the main city in Taiwan
 
-An implement for connecting with JAVA and MySQL (Version : 8.0), which uses various pre-combined open datasets and demonstrates the statistical exploratory data analysis.
+An GUI implement for connecting with JAVA and MySQL (Version : 8.0), which uses various pre-combined open datasets and demonstrates the statistical exploratory data analysis.
 
 ## Datasets
 
