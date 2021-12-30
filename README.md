@@ -30,6 +30,12 @@ Parade : https://data.moi.gov.tw/MoiOD/Data/DataDetail.aspx?oid=2E2E281C-5E92-44
 
 ## Usage
 
+<div class="row">
+  <div class="column">
+    <img src="JAVA_MYSQL.png" width = "50%" align = "right">
+  </div>  
+<div>
+
 1. Run dist/DataMining.jar
 
 2. click "FindData" button
